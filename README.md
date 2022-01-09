@@ -3,7 +3,7 @@ Hello, Welcome to my Profile 👋
 
 - 🔭 I’m currently working on a Meal-sharing app.
 - 🌱 I’m currently learning JavaScript, JSX, React & node.js.
-- 👯 I’m looking to collaborate on Github.                                            <img src= ""
+- 👯 I’m looking to collaborate on Github.                                           
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about Html & CSS.
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/mmelshawa/)
